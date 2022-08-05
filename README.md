@@ -5,7 +5,7 @@
 
 [Getting started](#getting-started) |
 [Staying up to date with Dawn changes](#staying-up-to-date-with-dawn-changes) |
-[Developer tools](#developer-tools) |
+[Developer tools](#developer-tools) | Boo
 [Contributing](#contributing) |
 [Code of conduct](#code-of-conduct) |
 [Theme Store submission](#theme-store-submission) |
